@@ -9,18 +9,18 @@ Calculation of meal quality predictor using labeled data and a series of supervi
   meal_ml_git/ml_knn - K-nearest neighbor method <br />
   meal_ml_git/input_file - Input data <br />
  
-**How to use:**
+**How to use:** <br />
   Neural network - In the meal_ml_git/ml_nn directory, run
   ```
   $ python meal_data.py
   ```
-  to start training the neural network. It should take a few minutes.
+  to start training the neural network. It should take a few minutes. <br />
   
   Decision tree - In the meal_ml_git/ml_decision_tree directory, run
   ```
   $ python decision_tree.py
   ```
-  to make the decision tree and plot it.
+  to make the decision tree and plot it. <br />
   
   K-nearest neighbor - In the meal_ml_git/ml_knn directory, run
   ```
