@@ -1,7 +1,7 @@
 # meal-machine-learning
 Calculation of meal quality predictor using labeled data and a series of supervised learning algorithms.
 
-Contents:
+**Contents:** <br />
   LICENSE - MIT License <br />
   Requirements - Required modules <br />
   meal_ml_git/ml_nn - Neural network method <br />
@@ -9,7 +9,7 @@ Contents:
   meal_ml_git/ml_knn - K-nearest neighbor method <br />
   meal_ml_git/input_file - Input data <br />
  
-How to use:
+**How to use:**
   Neural network - In the meal_ml_git/ml_nn directory, run
   ```
   $ python meal_data.py
